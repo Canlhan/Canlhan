@@ -3,9 +3,6 @@
 #### Hi I'm Hüseyin Can İlhan from Turkey. I'm studying  at Manisa Celal Bayar University. I am interesting web and  mobile technologies.
 
 
-<br/>
-<br/>
-
 ## Tech I use 
 
 
