@@ -14,8 +14,9 @@
 
 <img align="left" height="32" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFD9ZZnPjLBTF8ggPvWD9FT5b9rRvyeTTB1A&usqp=CAU" />
 
-<img  height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
+<img  align="left" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" />
 
+<img  height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />
 <br/>
 <br/>
 
