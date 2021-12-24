@@ -29,7 +29,6 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=Canlhan&show_icons=true&theme=radical">
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Canlhan&layout=compact">
 
 
 
